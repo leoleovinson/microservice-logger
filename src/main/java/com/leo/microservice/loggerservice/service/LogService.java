@@ -24,19 +24,13 @@ public class LogService {
 	
 	@KafkaListener(groupId = "logs-topic-group-1", topics = "logs-topic")
 	public void getMessageFromTopic(String data) {
-		System.out.println("ARE YOU LISTENING" +data);
 		logToDatabase(data);
-//		System.out.println(data);
 	}
 	
 	public void logToDatabase(String data) {
 		MessageLogDto messageLogDto = new MessageLogDto();
 		messageLogDto.setDateCreated(new Date());
 		messageLogDto.setMessage(data);
-//		System.out.println("asdasd "+messageLogDto);
-//		MessageLog messageLog = new MessageLog();
-//		messageLog.setMessage(messageLogDto.getMessage());
-//		System.out.println("2nd asdasd " +messageLog);
 		logRepository.save(logConverter.dtoToEntity(messageLogDto));
 	}
 	

@@ -1,0 +1,2332 @@
+[{
+  "_id": {
+    "$oid": "62203f86aba03d0e230d066c"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=Addproduct test, productDescription=testing product test)\"",
+  "dateCreated": {
+    "$date": "2022-03-03T04:09:42.758Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62203fdfaba03d0e230d066d"
+  },
+  "message": "\"Updating product with id: 8\"",
+  "dateCreated": {
+    "$date": "2022-03-03T04:11:11.256Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62203fdfaba03d0e230d066e"
+  },
+  "message": "\"Product does not exist\"",
+  "dateCreated": {
+    "$date": "2022-03-03T04:11:11.259Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220b0e7cba335088e4d2227"
+  },
+  "message": "\"Updating product with id: 8\"",
+  "dateCreated": {
+    "$date": "2022-03-03T12:13:27.734Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220b0e7cba335088e4d2228"
+  },
+  "message": "\"Product does not exist\"",
+  "dateCreated": {
+    "$date": "2022-03-03T12:13:27.885Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220b13fcba335088e4d2229"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T12:14:55.187Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220b1e0cba335088e4d222a"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T12:17:36.935Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220e8b5aa3a2927ea6505ac"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T16:11:33.545Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220e900aa3a2927ea6505ad"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=Addproduct test, productDescription=testing product test, price=0.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-03T16:12:48.839Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220e93aaa3a2927ea6505ae"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T16:13:46.624Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220eb91aa3a2927ea6505af"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=Addproduct test, productDescription=testing product test, price=10.5)\"",
+  "dateCreated": {
+    "$date": "2022-03-03T16:23:45.706Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220eb9aaa3a2927ea6505b0"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T16:23:54.243Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220f741aa3a2927ea6505b1"
+  },
+  "message": "\"Updating product with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:13:37.438Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220f741aa3a2927ea6505b2"
+  },
+  "message": "\"Product does not exist\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:13:37.443Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220f785aa3a2927ea6505b3"
+  },
+  "message": "\"Updating product with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:14:45.454Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220f785aa3a2927ea6505b4"
+  },
+  "message": "\"Product does not exist\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:14:45.457Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fa7aaa3a2927ea6505b5"
+  },
+  "message": "\"Updating product with id: 99\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:27:22.065Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fa7aaa3a2927ea6505b6"
+  },
+  "message": "\"Product does not exist\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:27:22.068Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fb3aaa3a2927ea6505b7"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:30:34.848Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fccbaa3a2927ea6505b8"
+  },
+  "message": "\"ResourceNotFoundException occurredValidation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:37:15.204Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fd3aaa3a2927ea6505b9"
+  },
+  "message": "\"ResourceNotFoundException occurredValidation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:39:06.614Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fde8aa3a2927ea6505ba"
+  },
+  "message": "\"Updating product with id: 99\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:42:00.087Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fde8aa3a2927ea6505bb"
+  },
+  "message": "\"ResourceNotFoundException occurredProduct not found with id: 99\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:42:00.092Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fdf3aa3a2927ea6505bc"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:42:11.082Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fe01aa3a2927ea6505bd"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:42:25.414Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220fee3aa3a2927ea6505be"
+  },
+  "message": "\"MethodArgumentNotValidException occurredValidation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 2 errors: [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [must not be null]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [must not be null]] \"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:46:11.766Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220ff3eaa3a2927ea6505bf"
+  },
+  "message": "\"Updating product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:47:42.752Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6220ff3eaa3a2927ea6505c0"
+  },
+  "message": "\"Updated product: ProductDto(productId=2, productName=null, productDescription=null, price=0.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:47:42.757Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62210144aa3a2927ea6505c1"
+  },
+  "message": "\"Updating product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:56:20.631Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62210144aa3a2927ea6505c2"
+  },
+  "message": "\"Updated product: ProductDto(productId=2, productName=Switch OLED, productDescription=apparently an upgrade, price=50.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:56:20.641Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62210164aa3a2927ea6505c3"
+  },
+  "message": "\"Updating product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:56:52.294Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62210164aa3a2927ea6505c4"
+  },
+  "message": "\"Updated product: ProductDto(productId=2, productName=Switch OLED, productDescription=Newer switch version, price=300.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:56:52.299Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62210178aa3a2927ea6505c5"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:57:12.931Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622101e0aa3a2927ea6505c6"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:58:56.198Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62210215aa3a2927ea6505c7"
+  },
+  "message": "\"Updating product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:59:49.768Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62210215aa3a2927ea6505c8"
+  },
+  "message": "\"Updated product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=649.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-03T17:59:49.773Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221028aaa3a2927ea6505c9"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T18:01:46.487Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622102ebaa3a2927ea6505ca"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T18:03:23.101Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622102ffaa3a2927ea6505cb"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T18:03:43.943Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62210342aa3a2927ea6505ce"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T18:04:50.508Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622104e81e0fbd3c3fc907a4"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T18:11:52.018Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221054e1e0fbd3c3fc907a6"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T18:13:34.119Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221056f1e0fbd3c3fc907a8"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T18:14:07.502Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622106171e0fbd3c3fc907a9"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-03T18:16:55.084Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221b0633443436643207340"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-04T06:23:31.162Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221b0633443436643207341"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=649.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-04T06:23:31.354Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221b08a3443436643207342"
+  },
+  "message": "\"Updating product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-04T06:24:10.750Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221b08a3443436643207343"
+  },
+  "message": "\"Updated product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-04T06:24:10.760Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221b0933443436643207344"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-04T06:24:19.033Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221b0933443436643207345"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-04T06:24:19.043Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221b0993443436643207346"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-04T06:24:25.952Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6221b09e3443436643207347"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-04T06:24:30.693Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222c94c2b22b62d47a9efdf"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.String> com.leo.microservice.productservice.controller.ProductController.addProduct(com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:22:04.103Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222c9732b22b62d47a9efe0"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=null, productDescription=null, price=50.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:22:43.190Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222c9ff2b22b62d47a9efe1"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.String> com.leo.microservice.productservice.controller.ProductController.addProduct(com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotBlank.productDto.productName,NotBlank.productName,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:25:03.556Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222ca062b22b62d47a9efe2"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:25:10.714Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222ca372b22b62d47a9efe3"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.String> com.leo.microservice.productservice.controller.ProductController.addProduct(com.leo.microservice.productservice.dto.ProductDto) with 2 errors: [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotBlank.productDto.productName,NotBlank.productName,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotBlank.productDto.productDescription,NotBlank.productDescription,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:25:59.365Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222ca442b22b62d47a9efe4"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.String> com.leo.microservice.productservice.controller.ProductController.addProduct(com.leo.microservice.productservice.dto.ProductDto) with 2 errors: [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotBlank.productDto.productDescription,NotBlank.productDescription,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotBlank.productDto.productName,NotBlank.productName,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:26:12.042Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222ca742b22b62d47a9efe5"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.String> com.leo.microservice.productservice.controller.ProductController.addProduct(com.leo.microservice.productservice.dto.ProductDto) with 2 errors: [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotBlank.productDto.productDescription,NotBlank.productDescription,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotBlank.productDto.productName,NotBlank.productName,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:27:00.075Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222ca832b22b62d47a9efe6"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.String> com.leo.microservice.productservice.controller.ProductController.addProduct(com.leo.microservice.productservice.dto.ProductDto) with 2 errors: [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotBlank.productDto.productName,NotBlank.productName,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotBlank.productDto.productDescription,NotBlank.productDescription,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:27:15.246Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222ca9b2b22b62d47a9efe7"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:27:39.804Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222cab22b22b62d47a9efe8"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=test product, productDescription=test product description, price=50.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:28:02.972Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222cabd2b22b62d47a9efe9"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:28:13.956Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222cacb2b22b62d47a9efea"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 2 errors: [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotBlank.productDto.productDescription,NotBlank.productDescription,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotBlank.productDto.productName,NotBlank.productName,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:28:27.838Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222cd812b22b62d47a9efeb"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 2 errors: [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotBlank.productDto.productName,NotBlank.productName,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotBlank.productDto.productDescription,NotBlank.productDescription,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:40:01.612Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d22f2b22b62d47a9efec"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotBlank.productDto.productDescription,NotBlank.productDescription,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T02:59:59.323Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d25e2b22b62d47a9efed"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'productDescription': rejected value []; codes [NotBlank.productDto.productDescription,NotBlank.productDescription,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:00:46.827Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d2b62b22b62d47a9efee"
+  },
+  "message": "\"Updating product with id: 5\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:02:14.429Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d2b62b22b62d47a9efef"
+  },
+  "message": "\"Updated product: ProductDto(productId=5, productName=E-Shop Credit, productDescription=testing product test, price=50.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:02:14.437Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d58e2b22b62d47a9eff0"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 3 errors: [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:14:22.370Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d6c32b22b62d47a9eff1"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 3 errors: [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:19:31.780Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d6c62b22b62d47a9eff2"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 3 errors: [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:19:34.977Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d6ca2b22b62d47a9eff3"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 3 errors: [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:19:38.034Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d6ca2b22b62d47a9eff4"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 3 errors: [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:19:38.820Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d6cb2b22b62d47a9eff5"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 3 errors: [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:19:39.712Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d6cc2b22b62d47a9eff6"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 3 errors: [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:19:40.420Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d6df2b22b62d47a9eff7"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto) with 3 errors: [Field error in object 'productDto' on field 'productName': rejected value [null]; codes [NotNull.productDto.productName,NotNull.productName,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productName,productName]; arguments []; default message [productName]]; default message [Enter a product name]] [Field error in object 'productDto' on field 'productDescription': rejected value [null]; codes [NotNull.productDto.productDescription,NotNull.productDescription,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.productDescription,productDescription]; arguments []; default message [productDescription]]; default message [Enter a product description]] [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:19:59.025Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d7032b22b62d47a9eff8"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [0.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:20:35.542Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d7082b22b62d47a9eff9"
+  },
+  "message": "\"Updating product with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:20:40.126Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d7082b22b62d47a9effa"
+  },
+  "message": "\"Updated product: null\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:20:40.132Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d7222b22b62d47a9effb"
+  },
+  "message": "\"Updating product with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:21:06.462Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d7222b22b62d47a9effc"
+  },
+  "message": "\"Updated product: null\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:21:06.467Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d7392b22b62d47a9effd"
+  },
+  "message": "\"Updating product with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:21:29.158Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d7392b22b62d47a9effe"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:21:29.161Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d82d2b22b62d47a9efff"
+  },
+  "message": "\"Updating product with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:25:33.718Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222d82d2b22b62d47a9f000"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-05T03:25:33.723Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f4f62b22b62d47a9f001"
+  },
+  "message": "\"Updating product with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:28:22.614Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f4f62b22b62d47a9f002"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 100\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:28:22.646Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f5062b22b62d47a9f003"
+  },
+  "message": "\"Updating product with id: 8\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:28:38.294Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f5062b22b62d47a9f004"
+  },
+  "message": "\"Updated product: ProductDto(productId=8, productName=null, productDescription=null, price=1.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:28:38.305Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f5a42b22b62d47a9f005"
+  },
+  "message": "\"Updating product with id: 8\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:31:16.911Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f5a42b22b62d47a9f006"
+  },
+  "message": "\"Updated product: ProductDto(productId=8, productName=Corsair K100, productDescription=Gaming Keyboard, price=250.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:31:16.918Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f5ea2b22b62d47a9f007"
+  },
+  "message": "\"Updating product with id: 6\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:32:26.477Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f5ea2b22b62d47a9f008"
+  },
+  "message": "\"Updated product: ProductDto(productId=6, productName=Playstation 5, productDescription=Playstation next gen gaming console, price=500.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:32:26.481Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f6172b22b62d47a9f009"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=, productDescription=test product description, price=50.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:33:11.744Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222f87a2b22b62d47a9f00a"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=, productDescription=test product description, price=75.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:43:22.590Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222fb672b22b62d47a9f00b"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=, productDescription=test product description, price=75.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:55:51.714Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6222fb862b22b62d47a9f00c"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=Persona 5, productDescription=test product description, price=75.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T05:56:22.773Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230c262b22b62d47a9f00d"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:07:18.307Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230c632b22b62d47a9f00e"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:08:19.858Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230d192b22b62d47a9f00f"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:11:21.898Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230d572b22b62d47a9f010"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:12:23.220Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230db02b22b62d47a9f011"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:13:52.544Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230df22b22b62d47a9f012"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:14:58.417Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230df22b22b62d47a9f013"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:14:58.424Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230e142b22b62d47a9f014"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:15:32.752Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230e142b22b62d47a9f015"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:15:32.758Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230e1b2b22b62d47a9f016"
+  },
+  "message": "\"Fetching product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:15:39.798Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230e1b2b22b62d47a9f017"
+  },
+  "message": "\"Product: ProductDto(productId=2, productName=Switch OLED, productDescription=Newer switch version, price=300.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:15:39.806Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230e452b22b62d47a9f018"
+  },
+  "message": "\"Fetching product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:16:21.517Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230e452b22b62d47a9f019"
+  },
+  "message": "\"Product: ProductDto(productId=2, productName=Switch OLED, productDescription=Newer switch version, price=300.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:16:21.522Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230e4c2b22b62d47a9f01a"
+  },
+  "message": "\"Fetching product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:16:28.677Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230e4c2b22b62d47a9f01b"
+  },
+  "message": "\"Product: ProductDto(productId=2, productName=Switch OLED, productDescription=Newer switch version, price=300.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:16:28.683Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230f8d2b22b62d47a9f01d"
+  },
+  "message": "\"Fetching product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:21:49.100Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230f8d2b22b62d47a9f01e"
+  },
+  "message": "\"Product: ProductDto(productId=2, productName=Switch OLED, productDescription=Newer switch version, price=300.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:21:49.115Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62230ff62b22b62d47a9f01f"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:23:34.249Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622310582b22b62d47a9f020"
+  },
+  "message": "\"Fetching product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:25:12.788Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622310582b22b62d47a9f021"
+  },
+  "message": "\"Product: ProductDto(productId=2, productName=Switch OLED, productDescription=Newer switch version, price=300.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:25:12.793Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622316412b22b62d47a9f022"
+  },
+  "message": "\"Fetching product with id: 2\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:50:25.002Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622316412b22b62d47a9f023"
+  },
+  "message": "\"Product: ProductDto(productId=2, productName=Switch OLED, productDescription=Newer switch version, price=300.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:50:25.009Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6223165b2b22b62d47a9f024"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:50:51.821Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622316712b22b62d47a9f025"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:51:13.307Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6223168e2b22b62d47a9f026"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:51:42.728Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6223169c2b22b62d47a9f027"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:51:56.326Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622316d12b22b62d47a9f028"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:52:49.820Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622316d22b22b62d47a9f029"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:52:50.833Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622316d32b22b62d47a9f02a"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:52:51.603Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "622316d42b22b62d47a9f02b"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-05T07:52:52.285Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee15d81597a74789601"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:25.756Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789602"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.072Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789603"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.075Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789604"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.079Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789605"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.082Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789606"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.085Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789607"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.087Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789608"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.090Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789609"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.093Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478960a"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.095Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478960b"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.098Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478960c"
+  },
+  "message": "\"Product: ProductDto(productId=5, productName=E-Shop Credit, productDescription=testing product test, price=50.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.101Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478960d"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=Dr. Fog n' Chill, productDescription=Vape juice, price=100.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.104Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478960e"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=Caliburn G, productDescription=Vape Pod, price=800.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.107Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478960f"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=P0.2 Coil 5x, productDescription=P series coil, price=500.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.110Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789610"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.113Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789611"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.117Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789612"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.119Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789613"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.122Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789614"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.125Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789615"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.128Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789616"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.131Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789617"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.134Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789618"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.136Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a74789619"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.139Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478961a"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.142Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478961b"
+  },
+  "message": "\"Fetching product with id: 5\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.145Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478961c"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=Tsiklet Ohmz, productDescription=Vape juice, price=85.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.148Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478961d"
+  },
+  "message": "\"Adding a product ProductDto(productId=null, productName=Aegis Boost Pro, productDescription=Vape Pod, price=1450.0)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.150Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226aee25d81597a7478961e"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:18:26.153Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226af0e5d81597a7478961f"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:19:10.803Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226af1f5d81597a74789620"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:19:27.242Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226af375d81597a74789621"
+  },
+  "message": "\"Fetching all products\"",
+  "dateCreated": {
+    "$date": "2022-03-08T01:19:51.463Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ba145d81597a74789622"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:06:12.057Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ba6f5d81597a74789623"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:07:43.054Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226baac5d81597a74789624"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:08:44.166Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bb9d5d81597a74789625"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:12:45.571Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bb9d5d81597a74789626"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:12:45.578Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bbcf5d81597a74789627"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:13:35.321Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bbcf5d81597a74789628"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:13:35.327Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bc335d81597a74789629"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:15:15.711Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bc835d81597a7478962a"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:16:35.415Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bd5b5d81597a7478962b"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:20:11.891Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bd795d81597a7478962c"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:20:41.649Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bd795d81597a7478962d"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:20:41.653Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bf455d81597a7478962e"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:28:21.027Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bf455d81597a7478962f"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:28:21.032Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bf955d81597a74789630"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:29:41.361Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226bf955d81597a74789631"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T02:29:41.367Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c7b75d81597a74789632"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:04:23.731Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c7b75d81597a74789633"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:04:23.738Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c8025d81597a74789634"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:05:38.290Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c8025d81597a74789635"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:05:38.295Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c9335d81597a74789636"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:10:43.846Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c9635d81597a74789637"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:11:31.887Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c97d5d81597a74789638"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:11:57.795Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c97d5d81597a74789639"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:11:57.798Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c9a25d81597a7478963a"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:12:34.022Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226c9a25d81597a7478963b"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:12:34.028Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226caac5d81597a7478963c"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:17:00.892Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226caac5d81597a7478963d"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:17:00.897Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cafc5d81597a7478963e"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:18:20.072Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cafc5d81597a7478963f"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:18:20.076Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cdec5d81597a74789640"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:30:52.123Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cdec5d81597a74789641"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:30:52.175Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ce035d81597a74789642"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:31:15.017Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ce035d81597a74789643"
+  },
+  "message": "\"Fetching product with id: 50\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:31:15.019Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ce395d81597a74789644"
+  },
+  "message": "\"Fetching product with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:32:09.018Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ce395d81597a74789645"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:32:09.021Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ce8b5d81597a74789646"
+  },
+  "message": "\"Fetching product with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:33:31.885Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ce8b5d81597a74789647"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:33:31.890Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cf3d5d81597a74789648"
+  },
+  "message": "\"Fetching product with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:36:29.875Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cf3d5d81597a74789649"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:36:29.881Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cf8f5d81597a7478964a"
+  },
+  "message": "\"Fetching product with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:37:51.246Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cf8f5d81597a7478964b"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:37:51.251Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cfc65d81597a7478964c"
+  },
+  "message": "\"Fetching product with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:38:46.625Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226cfc65d81597a7478964d"
+  },
+  "message": "\"ResourceNotFoundException occurred: Product not found with id: 55\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:38:46.629Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d00b5d81597a7478964e"
+  },
+  "message": "\"Fetching product with id: 1\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:39:55.403Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d00b5d81597a7478964f"
+  },
+  "message": "\"Product: ProductDto(productId=1, productName=Steam Deck, productDescription=Lord GabeN's money maker console, price=749.99)\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:39:55.409Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d1e55d81597a74789650"
+  },
+  "message": "\"From class: ProductController\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:47:49.473Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d1e55d81597a74789651"
+  },
+  "message": "\"Invoked method: getAllProducts\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:47:49.491Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d1e55d81597a74789652"
+  },
+  "message": "\"Argumenst passed: []\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:47:49.494Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d1e55d81597a74789653"
+  },
+  "message": "\"Resulting Reponse: {\\\"headers\\\":{},\\\"body\\\":[{\\\"productId\\\":1,\\\"productName\\\":\\\"Steam Deck\\\",\\\"productDescription\\\":\\\"Lord GabeN's money maker console\\\",\\\"price\\\":749.99},{\\\"productId\\\":2,\\\"productName\\\":\\\"Switch OLED\\\",\\\"productDescription\\\":\\\"Newer switch version\\\",\\\"price\\\":300.0},{\\\"productId\\\":3,\\\"productName\\\":\\\"Nintendo Switch\\\",\\\"productDescription\\\":\\\"Nintendo's take on next-gen console\\\",\\\"price\\\":0.0},{\\\"productId\\\":4,\\\"productName\\\":\\\"Persona 5\\\",\\\"productDescription\\\":\\\"Atlus latest Persona installment\\\",\\\"price\\\":0.0},{\\\"productId\\\":5,\\\"productName\\\":\\\"E-Shop Credit\\\",\\\"productDescription\\\":\\\"testing product test\\\",\\\"price\\\":50.0},{\\\"productId\\\":6,\\\"productName\\\":\\\"Playstation 5\\\",\\\"productDescription\\\":\\\"Playstation next gen gaming console\\\",\\\"price\\\":500.0},{\\\"productId\\\":7,\\\"productName\\\":\\\"Addproduct test\\\",\\\"productDescription\\\":\\\"testing product test\\\",\\\"price\\\":10.5},{\\\"productId\\\":8,\\\"productName\\\":\\\"Corsair K100\\\",\\\"productDescription\\\":\\\"Gaming Keyboard\\\",\\\"price\\\":250.0},{\\\"productId\\\":9,\\\"productName\\\":\\\"test product\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":50.0},{\\\"productId\\\":10,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":50.0},{\\\"productId\\\":11,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0},{\\\"productId\\\":12,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0},{\\\"productId\\\":13,\\\"productName\\\":\\\"Persona 5\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0}],\\\"statusCode\\\":\\\"OK\\\",\\\"statusCodeValue\\\":200}\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:47:49.522Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d1e95d81597a74789654"
+  },
+  "message": "\"From class: ProductController\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:47:53.005Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d1e95d81597a74789655"
+  },
+  "message": "\"Invoked method: getProduct\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:47:53.007Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d1e95d81597a74789656"
+  },
+  "message": "\"Argumenst passed: [1]\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:47:53.010Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d1e95d81597a74789657"
+  },
+  "message": "\"Resulting Reponse: {\\\"headers\\\":{},\\\"body\\\":{\\\"productId\\\":1,\\\"productName\\\":\\\"Steam Deck\\\",\\\"productDescription\\\":\\\"Lord GabeN's money maker console\\\",\\\"price\\\":749.99},\\\"statusCode\\\":\\\"FOUND\\\",\\\"statusCodeValue\\\":302}\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:47:53.030Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d4065d81597a74789658"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:56:54.944Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d4805d81597a74789659"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-08T03:58:56.285Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d4df5d81597a7478965a"
+  },
+  "message": "\"Unexpected error occurred\"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:00:31.728Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226d5685d81597a7478965b"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:02:48.744Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226dc125d81597a7478965c"
+  },
+  "message": "\"From class: GlobalExceptionHandler\"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:31:14.589Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226dc125d81597a7478965d"
+  },
+  "message": "\"Invoked method: methodArgumentNotValidExceptionHandler\"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:31:14.591Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226dc9f5d81597a7478965e"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:33:35.905Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226dd905d81597a7478965f"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:37:36.035Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ddcb5d81597a74789660"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:38:35.744Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226de2d5d81597a74789661"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:40:13.177Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226de435d81597a74789662"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:40:35.522Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226de945d81597a74789663"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:41:56.676Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ded25d81597a74789664"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:42:58.171Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226df665d81597a74789665"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:45:26.295Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226dfc55d81597a74789666"
+  },
+  "message": "\"MethodArgumentNotValidException occurred: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.leo.microservice.productservice.dto.ProductDto> com.leo.microservice.productservice.controller.ProductController.updateProduct(java.lang.Long,com.leo.microservice.productservice.dto.ProductDto): [Field error in object 'productDto' on field 'price': rejected value [-50.0]; codes [Min.productDto.price,Min.price,Min.double,Min]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [productDto.price,price]; arguments []; default message [price],1]; default message [The value must be positive]] \"",
+  "dateCreated": {
+    "$date": "2022-03-08T04:47:01.172Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ed7f5d81597a74789667"
+  },
+  "message": "\"From class: ProductController\"",
+  "dateCreated": {
+    "$date": "2022-03-08T05:45:35.673Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ed7f5d81597a74789668"
+  },
+  "message": "\"Invoked method: getProduct\"",
+  "dateCreated": {
+    "$date": "2022-03-08T05:45:35.690Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ed7f5d81597a74789669"
+  },
+  "message": "\"Argumenst passed: [1]\"",
+  "dateCreated": {
+    "$date": "2022-03-08T05:45:35.700Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ed7f5d81597a7478966a"
+  },
+  "message": "\"Resulting Reponse: {\\\"headers\\\":{},\\\"body\\\":{\\\"productId\\\":1,\\\"productName\\\":\\\"Steam Deck\\\",\\\"productDescription\\\":\\\"Lord GabeN's money maker console\\\",\\\"price\\\":749.99},\\\"statusCode\\\":\\\"FOUND\\\",\\\"statusCodeValue\\\":302}\"",
+  "dateCreated": {
+    "$date": "2022-03-08T05:45:35.710Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226ed9b5d81597a7478966b"
+  },
+  "message": "\"Base Exception Reached. Unexpected error occurred: Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T05:46:03.408Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226eeb25d81597a7478966c"
+  },
+  "message": "\"Base Exception Reached. Unexpected error occurred: Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T05:50:42.125Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226f1e35d81597a7478966d"
+  },
+  "message": "\"Base Exception Reached. Unexpected error occurred: Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T06:04:19.193Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226f1e75d81597a7478966e"
+  },
+  "message": "\"Base Exception Reached. Unexpected error occurred: Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T06:04:23.883Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226f2235d81597a7478966f"
+  },
+  "message": "\"Method Request not available. Try a different request: Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T06:05:23.388Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226f23f5d81597a74789670"
+  },
+  "message": "\"Method Request not available:  Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T06:05:51.542Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226f2595d81597a74789671"
+  },
+  "message": "\"Method Request not available:  Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T06:06:17.352Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "6226f28c5d81597a74789672"
+  },
+  "message": "\"Base Exception Reached. Unexpected error occurred: Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T06:07:08.396Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272b3efdbeb250cb11d9b9"
+  },
+  "message": "\"From class: ProductController\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:09:02.749Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272b3efdbeb250cb11d9ba"
+  },
+  "message": "\"Invoked method: getAllProducts\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:09:02.989Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272b3efdbeb250cb11d9bb"
+  },
+  "message": "\"Resulting Reponse: {\\\"headers\\\":{},\\\"body\\\":[{\\\"productId\\\":1,\\\"productName\\\":\\\"Steam Deck\\\",\\\"productDescription\\\":\\\"Lord GabeN's money maker console\\\",\\\"price\\\":749.99},{\\\"productId\\\":2,\\\"productName\\\":\\\"Switch OLED\\\",\\\"productDescription\\\":\\\"Newer switch version\\\",\\\"price\\\":300.0},{\\\"productId\\\":3,\\\"productName\\\":\\\"Nintendo Switch\\\",\\\"productDescription\\\":\\\"Nintendo's take on next-gen console\\\",\\\"price\\\":0.0},{\\\"productId\\\":4,\\\"productName\\\":\\\"Persona 5\\\",\\\"productDescription\\\":\\\"Atlus latest Persona installment\\\",\\\"price\\\":0.0},{\\\"productId\\\":5,\\\"productName\\\":\\\"E-Shop Credit\\\",\\\"productDescription\\\":\\\"testing product test\\\",\\\"price\\\":50.0},{\\\"productId\\\":6,\\\"productName\\\":\\\"Playstation 5\\\",\\\"productDescription\\\":\\\"Playstation next gen gaming console\\\",\\\"price\\\":500.0},{\\\"productId\\\":7,\\\"productName\\\":\\\"Addproduct test\\\",\\\"productDescription\\\":\\\"testing product test\\\",\\\"price\\\":10.5},{\\\"productId\\\":8,\\\"productName\\\":\\\"Corsair K100\\\",\\\"productDescription\\\":\\\"Gaming Keyboard\\\",\\\"price\\\":250.0},{\\\"productId\\\":9,\\\"productName\\\":\\\"test product\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":50.0},{\\\"productId\\\":10,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":50.0},{\\\"productId\\\":11,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0},{\\\"productId\\\":12,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0},{\\\"productId\\\":13,\\\"productName\\\":\\\"Persona 5\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0}],\\\"statusCode\\\":\\\"OK\\\",\\\"statusCodeValue\\\":200}\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:09:02.992Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272b3ffdbeb250cb11d9bc"
+  },
+  "message": "\"Argumenst passed: []\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:09:03.008Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272b44fdbeb250cb11d9bd"
+  },
+  "message": "\"From class: ProductController\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:09:08.184Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272b44fdbeb250cb11d9be"
+  },
+  "message": "\"Invoked method: getAllProducts\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:09:08.187Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272b44fdbeb250cb11d9bf"
+  },
+  "message": "\"Argumenst passed: []\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:09:08.372Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272b44fdbeb250cb11d9c0"
+  },
+  "message": "\"Resulting Reponse: {\\\"headers\\\":{},\\\"body\\\":[{\\\"productId\\\":1,\\\"productName\\\":\\\"Steam Deck\\\",\\\"productDescription\\\":\\\"Lord GabeN's money maker console\\\",\\\"price\\\":749.99},{\\\"productId\\\":2,\\\"productName\\\":\\\"Switch OLED\\\",\\\"productDescription\\\":\\\"Newer switch version\\\",\\\"price\\\":300.0},{\\\"productId\\\":3,\\\"productName\\\":\\\"Nintendo Switch\\\",\\\"productDescription\\\":\\\"Nintendo's take on next-gen console\\\",\\\"price\\\":0.0},{\\\"productId\\\":4,\\\"productName\\\":\\\"Persona 5\\\",\\\"productDescription\\\":\\\"Atlus latest Persona installment\\\",\\\"price\\\":0.0},{\\\"productId\\\":5,\\\"productName\\\":\\\"E-Shop Credit\\\",\\\"productDescription\\\":\\\"testing product test\\\",\\\"price\\\":50.0},{\\\"productId\\\":6,\\\"productName\\\":\\\"Playstation 5\\\",\\\"productDescription\\\":\\\"Playstation next gen gaming console\\\",\\\"price\\\":500.0},{\\\"productId\\\":7,\\\"productName\\\":\\\"Addproduct test\\\",\\\"productDescription\\\":\\\"testing product test\\\",\\\"price\\\":10.5},{\\\"productId\\\":8,\\\"productName\\\":\\\"Corsair K100\\\",\\\"productDescription\\\":\\\"Gaming Keyboard\\\",\\\"price\\\":250.0},{\\\"productId\\\":9,\\\"productName\\\":\\\"test product\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":50.0},{\\\"productId\\\":10,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":50.0},{\\\"productId\\\":11,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0},{\\\"productId\\\":12,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0},{\\\"productId\\\":13,\\\"productName\\\":\\\"Persona 5\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0}],\\\"statusCode\\\":\\\"OK\\\",\\\"statusCodeValue\\\":200}\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:09:08.423Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272c93fdbeb250cb11d9c1"
+  },
+  "message": "\"From class: ProductController\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:43.194Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272c93fdbeb250cb11d9c2"
+  },
+  "message": "\"Invoked method: getAllProducts\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:43.197Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272c93fdbeb250cb11d9c3"
+  },
+  "message": "\"Argumenst passed: []\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:43.201Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272c93fdbeb250cb11d9c4"
+  },
+  "message": "\"Resulting Reponse: {\\\"headers\\\":{},\\\"body\\\":[{\\\"productId\\\":1,\\\"productName\\\":\\\"Steam Deck\\\",\\\"productDescription\\\":\\\"Lord GabeN's money maker console\\\",\\\"price\\\":749.99},{\\\"productId\\\":2,\\\"productName\\\":\\\"Switch OLED\\\",\\\"productDescription\\\":\\\"Newer switch version\\\",\\\"price\\\":300.0},{\\\"productId\\\":3,\\\"productName\\\":\\\"Nintendo Switch\\\",\\\"productDescription\\\":\\\"Nintendo's take on next-gen console\\\",\\\"price\\\":0.0},{\\\"productId\\\":4,\\\"productName\\\":\\\"Persona 5\\\",\\\"productDescription\\\":\\\"Atlus latest Persona installment\\\",\\\"price\\\":0.0},{\\\"productId\\\":5,\\\"productName\\\":\\\"E-Shop Credit\\\",\\\"productDescription\\\":\\\"testing product test\\\",\\\"price\\\":50.0},{\\\"productId\\\":6,\\\"productName\\\":\\\"Playstation 5\\\",\\\"productDescription\\\":\\\"Playstation next gen gaming console\\\",\\\"price\\\":500.0},{\\\"productId\\\":7,\\\"productName\\\":\\\"Addproduct test\\\",\\\"productDescription\\\":\\\"testing product test\\\",\\\"price\\\":10.5},{\\\"productId\\\":8,\\\"productName\\\":\\\"Corsair K100\\\",\\\"productDescription\\\":\\\"Gaming Keyboard\\\",\\\"price\\\":250.0},{\\\"productId\\\":9,\\\"productName\\\":\\\"test product\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":50.0},{\\\"productId\\\":10,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":50.0},{\\\"productId\\\":11,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0},{\\\"productId\\\":12,\\\"productName\\\":\\\"\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0},{\\\"productId\\\":13,\\\"productName\\\":\\\"Persona 5\\\",\\\"productDescription\\\":\\\"test product description\\\",\\\"price\\\":75.0}],\\\"statusCode\\\":\\\"OK\\\",\\\"statusCodeValue\\\":200}\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:43.212Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272c9cfdbeb250cb11d9c5"
+  },
+  "message": "\"Method Request not available:  Request method 'POST' not supported\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:52.976Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272ca1fdbeb250cb11d9c6"
+  },
+  "message": "\"From class: ProductController\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:57.423Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272ca1fdbeb250cb11d9c7"
+  },
+  "message": "\"Argumenst passed: [2]\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:57.427Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272ca1fdbeb250cb11d9c8"
+  },
+  "message": "\"Invoked method: getProduct\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:57.429Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+},{
+  "_id": {
+    "$oid": "62272ca1fdbeb250cb11d9c9"
+  },
+  "message": "\"Resulting Reponse: {\\\"headers\\\":{},\\\"body\\\":{\\\"productId\\\":2,\\\"productName\\\":\\\"Switch OLED\\\",\\\"productDescription\\\":\\\"Newer switch version\\\",\\\"price\\\":300.0},\\\"statusCode\\\":\\\"FOUND\\\",\\\"statusCodeValue\\\":302}\"",
+  "dateCreated": {
+    "$date": "2022-03-08T10:14:57.631Z"
+  },
+  "_class": "com.leo.microservice.loggerservice.entity.MessageLog"
+}]
